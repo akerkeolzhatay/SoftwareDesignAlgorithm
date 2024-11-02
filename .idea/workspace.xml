@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edaad120-1310-4613-b710-943f4307ff36" name="Changes" comment="task5">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="edaad120-1310-4613-b710-943f4307ff36" name="Changes" comment="Assignment2">
+      <change afterPath="$PROJECT_DIR$/Assignment3/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/GroceryStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/GroceryStoreMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment4/Assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment4/src/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment4/src/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment4/src/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART1/Assignment5_PART1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART1/src/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART1/src/DataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART1/src/DataPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART2/Assignment5_PART2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART2/src/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART2/src/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5_PART2/src/UserViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,21 +65,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/akerk/IdeaProjects/Assignment1/task5/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/akerk/IdeaProjects/Assignment1/Assignment5_PART2/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,6 +101,11 @@
       <workItem from="1727875779972" duration="759000" />
       <workItem from="1728035617274" duration="15000" />
       <workItem from="1728039442377" duration="67000" />
+      <workItem from="1728042344818" duration="768000" />
+      <workItem from="1728379335878" duration="2000" />
+      <workItem from="1728642238911" duration="21000" />
+      <workItem from="1730540217170" duration="525000" />
+      <workItem from="1730545096593" duration="818000" />
     </task>
     <task id="LOCAL-00001" summary="task1">
       <option name="closed" value="true" />
@@ -131,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727876488998</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Assignment2">
+      <option name="closed" value="true" />
+      <created>1728042509702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728042509702</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +175,23 @@
     <MESSAGE value="task3" />
     <MESSAGE value="task4" />
     <MESSAGE value="task5" />
-    <option name="LAST_COMMIT_MESSAGE" value="task5" />
+    <MESSAGE value="Assignment2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Assigment4/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Assignment4/src/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
